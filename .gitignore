@@ -11,3 +11,4 @@ modelsim.ini
 transcript
 *.egg-info
 *.code-workspace
+conenv.yml
